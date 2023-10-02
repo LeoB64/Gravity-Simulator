@@ -10,8 +10,8 @@
 
 ## Screen shots
 <img src="img/read/grativyEzgif1.gif">
-<img src="img/read/egravityScreenshot1.png">
-
+<img src="img/read/gravityScreenshot1.png">
+  
 
 
 ## Description
