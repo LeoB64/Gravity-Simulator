@@ -9,11 +9,13 @@
 </ul>
 
 ## Screen shots
-<img src="img/read/grativyEzgif1.gif" style="
+<div style="width: 100%">
+  <img src="img/read/grativyEzgif1.gif" style="
   display: block;
   margin-left: auto;
-  margin-right: auto;
-  width: 100%">
+  margin-right: auto;">
+</div>
+
 <img src="img/read/gravityScreenshot1.png">
   
 ## Description
