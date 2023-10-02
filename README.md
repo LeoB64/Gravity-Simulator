@@ -9,16 +9,10 @@
 </ul>
 
 ## Screen shots
-<img src="img/read/grativyEzgif1.gif" style=" 
-  display: block;
-  margin-left: auto;
-  margin-right: auto;">
+<img src="img/read/grativyEzgif1.gif" style="display: block; margin-left: auto; margin-right: auto;">
 <img src="img/read/gravityScreenshot1.png">
   
-
-
 ## Description
-
 
 ## Technologies used
 <ul>
