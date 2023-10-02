@@ -16,6 +16,12 @@
 <img src="img/read/gravityScreenshot1.png">
   
 ## Description
+This project is a simulation of a moving particle and how his trajectory is influenced by the gravitational field of 4 static non-moving objects. The parameters can be changed and it will affect the simulation. 
+
+It was done in Microsoft Excel by using the macro function and looping through the calculation columns. 
+
+I'm currently working on a better version of this project using PHP/JavaScript/HTML and CSS.
+
 
 ## Technologies used
 <ul>
