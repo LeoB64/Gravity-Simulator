@@ -9,12 +9,8 @@
 </ul>
 
 ## Screen shots
-<div style="width: 100%;">
-  <img src="img/read/grativyEzgif1.gif" style="
-  width: 100%;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;">
+<div style="width: 100%; display: flex; justify-content: center;">
+  <img src="img/read/grativyEzgif1.gif">
 </div>
 
 <img src="img/read/gravityScreenshot1.png">
